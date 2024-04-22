@@ -5,4 +5,4 @@ Here you can find the data products of our paper "Early-time gamma-ray constrain
 Astronomy & Astrophysics: https://doi.org/10.1051/0004-6361/202349061
 ArXiv: https://arxiv.org/abs/2404.10487
 
-Let us know if you would like more information to be uploaded
+Feel free to contact us for further requests
